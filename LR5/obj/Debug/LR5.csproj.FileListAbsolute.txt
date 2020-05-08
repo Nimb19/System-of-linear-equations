@@ -1,0 +1,9 @@
+C:\Users\asus\source\repos\LR5\LR5\bin\Debug\LR5.exe.config
+C:\Users\asus\source\repos\LR5\LR5\bin\Debug\LR5.exe
+C:\Users\asus\source\repos\LR5\LR5\bin\Debug\LR5.pdb
+C:\Users\asus\source\repos\LR5\LR5\obj\Debug\LR5.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\LR5\LR5\obj\Debug\LR5.Properties.Resources.resources
+C:\Users\asus\source\repos\LR5\LR5\obj\Debug\LR5.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\LR5\LR5\obj\Debug\LR5.exe
+C:\Users\asus\source\repos\LR5\LR5\obj\Debug\LR5.pdb
+C:\Users\asus\source\repos\LR5\LR5\obj\Debug\LR5.FormLR5.resources
